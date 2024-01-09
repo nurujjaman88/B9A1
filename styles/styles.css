@@ -103,8 +103,13 @@
 
 /* Party time */
 
-.party-time {
+.party-time{
     text-align: center;
+    background-color: antiquewhite;
+    width: 1320px;
+    height: 600px;
+    padding-top: 100px ;
+    padding-bottom: 20px;
 }
 
 .red {
@@ -133,4 +138,8 @@
     justify-content: center;
     align-items: center;
     gap: 10px;
+    color: #FFF;
+    text-transform: uppercase;
+    background-color: #F00;
+    border-radius: 10px;
 }
