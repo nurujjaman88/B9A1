@@ -1,0 +1,17 @@
+/* Banner section styles */
+
+
+.banner-section {
+    text-align: center;
+    color: #FFF;
+    font-family: Merriweather;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    background-image: url('../resources/Banner\ Image.png');
+    background-repeat: no-repeat;
+    width: 1320px;
+    height: 600px;
+    padding: 100px;
+}
