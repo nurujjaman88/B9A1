@@ -103,12 +103,12 @@
 
 /* Party time */
 
-.party-time{
+.party-time {
     text-align: center;
     background-color: antiquewhite;
     width: 1320px;
     height: 600px;
-    padding-top: 100px ;
+    padding-top: 100px;
     padding-bottom: 20px;
 }
 
@@ -142,4 +142,106 @@
     text-transform: uppercase;
     background-color: #F00;
     border-radius: 10px;
+}
+
+
+/* offer msg */
+
+.offer-msg {
+    display: flex;
+    width: 1320px;
+    height: 600px;
+    padding-top: 100px;
+    padding-bottom: 20px;
+    margin: 10px;
+}
+
+.best-offer {
+    color: #F00;
+    text-align: left;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.coming-soon {
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: capitalize;
+}
+
+.offer-des {
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+    margin-right: 70px;
+}
+
+.round-pic {
+    border-radius: 190px;
+    background-color: red;
+    padding: 14px;
+}
+
+.year {
+    color: #F00;
+    font-family: Inter;
+    font-size: 40px;
+    font-weight: 700;
+    margin-left: 5px;
+}
+
+.dolor {
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+    margin-left: 80px;
+}
+
+.gp-img {
+    margin-left: 5px;
+}
+
+/* Functional Section */
+
+.functional-sec {
+    text-align: center;
+    padding: 0px;
+    
+}
+
+.holy-day {
+    color: #F00;
+    font-size: 72px;
+
+}
+
+.holy-day-offer{
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 85px;
+    font-weight: 900;
+    margin-bottom: 0px;
+}
+
+.dolor-sit{
+    color: rgba(7, 2, 17, 0.60);
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-weight: 500;
+line-height: 32px;
+margin-right: 300px;
+margin-left: 300px;
+margin-top: 10px;
+padding-top: 5px;
 }
